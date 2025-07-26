@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#FFF5F5F5</color>
+    <color name="dark_gray">#FF757575</color>
+    <color name="card_background">#FFFFFFFF</color>
+    <color name="search_border">#FFE0E0E0</color>
+    
+    <!-- Nuevos colores para el diseño de cards -->
+    <color name="card_background_purple">#FFF3F0FF</color>
+    <color name="card_background_blue">#FFF0F8FF</color>
+    <color name="card_background_green">#FFF0FFF0</color>
+    <color name="card_background_orange">#FFFFF8F0</color>
+    <color name="text_secondary">#FF666666</color>
+    <color name="text_primary">#FF333333</color>
+    
+    <!-- Colores para animación de carga -->
+    <color name="loading_primary">#FFFF6B35</color>
+    <color name="loading_secondary">#80FF6B35</color>
+    
+    <!-- Color para overlay del toolbar -->
+    <color name="toolbar_overlay">#80000000</color>
+</resources>
